@@ -1,0 +1,6 @@
+export { default as users } from './userModel.js'
+export { default as docs } from './DocModel.js'
+export { default as teachers } from './TeacherModel.js'
+export { default as info } from './InfoModel.js'
+export { default as chat } from './chatModel.js'
+export { default as text } from './textModel.js'
